@@ -1,0 +1,1 @@
+# Write a program to print all key ,value pairs in dictionary
